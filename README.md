@@ -7,17 +7,14 @@ FitTrack is a native Android application that allows users to record their daily
 ## Table of Contents
 
 1. [Features](#features)
-2. [Screenshots](#screenshots)
-3. [Technology Stack](#technology-stack)
-4. [Project Structure](#project-structure)
-5. [Prerequisites](#prerequisites)
-6. [Getting Started](#getting-started)
-7. [Building an APK](#building-an-apk)
-8. [How to Use the App](#how-to-use-the-app)
-9. [Data Storage](#data-storage)
-10. [Design and Reliability Notes](#design-and-reliability-notes)
-11. [Future Enhancements](#future-enhancements)
-12. [Author](#author)
+2. [Technology Stack](#technology-stack)
+3. [Project Structure](#project-structure)
+4. [Prerequisites](#prerequisites)
+5. [How to Use the App](#how-to-use-the-app)
+6. [Data Storage](#data-storage)
+7. [Design and Reliability Notes](#design-and-reliability-notes)
+8. [Future Enhancements](#future-enhancements)
+9. [Author](#author)
 
 ---
 
