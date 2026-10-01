@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise_types">
+        <item>Walking</item>
+        <item>Running</item>
+        <item>Cycling</item>
+        <item>Gym / Weights</item>
+        <item>Yoga</item>
+        <item>Swimming</item>
+        <item>Other</item>
+    </string-array>
+    <color name="bg">#F4F7F4</color>
+    <color name="green">#2E7D32</color>
+    <color name="ic_launcher_background">#2E7D32</color>
+    <string name="add">Add activity</string>
+    <string name="add_activity">Log activity</string>
+    <string name="app_name">FitTrack</string>
+    <string name="calories">Calories</string>
+    <string name="clear_all">Clear all data</string>
+    <string name="empty">No activity yet. Tap the + button to log your first workout.</string>
+    <string name="minutes">Workout time</string>
+    <string name="recent">Recent activity</string>
+    <string name="save">Save</string>
+    <string name="set_goals">Set daily goals</string>
+    <string name="steps">Steps</string>
+    <string name="this_week">Last 7 days</string>
+    <string name="today">Today</string>
+    <string name="week_summary">Steps: %1$d  |  Calories: %2$d kcal\nActive: %3$d min  |  Workouts: %4$d</string>
+    <style name="Theme.FitTrack" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+</resources>

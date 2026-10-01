@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+        <EditText
+            android:id="@+id/gSteps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Daily steps goal"
+            android:importantForAutofill="no"
+            android:inputType="number"
+            android:maxLength="6" />
+        <EditText
+            android:id="@+id/gCal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Daily calories goal"
+            android:importantForAutofill="no"
+            android:inputType="number"
+            android:maxLength="5" />
+        <EditText
+            android:id="@+id/gMin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Daily active minutes goal"
+            android:importantForAutofill="no"
+            android:inputType="number"
+            android:maxLength="4" />
+    </LinearLayout>
+</ScrollView>

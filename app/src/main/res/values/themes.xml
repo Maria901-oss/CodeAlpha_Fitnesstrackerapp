@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.FitTrack" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FitTrack</string>
+    <string name="today">Today</string>
+    <string name="this_week">Last 7 days</string>
+    <string name="recent">Recent activity</string>
+    <string name="empty">No activity yet. Tap the + button to log your first workout.</string>
+    <string name="steps">Steps</string>
+    <string name="calories">Calories</string>
+    <string name="minutes">Workout time</string>
+    <string name="add_activity">Log activity</string>
+    <string name="save">Save</string>
+    <string name="set_goals">Set daily goals</string>
+    <string name="clear_all">Clear all data</string>
+    <string name="add">Add activity</string>
+    <string name="week_summary">Steps: %1$d  |  Calories: %2$d kcal\nActive: %3$d min  |  Workouts: %4$d</string>
+    <string-array name="exercise_types">
+        <item>Walking</item>
+        <item>Running</item>
+        <item>Cycling</item>
+        <item>Gym / Weights</item>
+        <item>Yoga</item>
+        <item>Swimming</item>
+        <item>Other</item>
+    </string-array>
+</resources>
